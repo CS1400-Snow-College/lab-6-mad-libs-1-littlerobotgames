@@ -1,0 +1,15 @@
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\bin\Debug\net8.0\Madlibs1.exe
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\bin\Debug\net8.0\Madlibs1.deps.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\bin\Debug\net8.0\Madlibs1.runtimeconfig.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\bin\Debug\net8.0\Madlibs1.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\bin\Debug\net8.0\Madlibs1.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\Madlibs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\Madlibs1.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\Madlibs1.AssemblyInfo.cs
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\Madlibs1.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\Madlibs1.sourcelink.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\Madlibs1.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\refint\Madlibs1.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\Madlibs1.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\Madlibs1.genruntimeconfig.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-6-mad-libs-1-littlerobotgames\Madlibs1\obj\Debug\net8.0\ref\Madlibs1.dll

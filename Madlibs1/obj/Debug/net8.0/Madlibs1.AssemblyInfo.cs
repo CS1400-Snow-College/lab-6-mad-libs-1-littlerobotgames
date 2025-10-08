@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Madlibs1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7adf7bed038f9f189c17272bedd032bf29cb62c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4be4249dc57b619b098391d78e7b83569bdc8c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Madlibs1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Madlibs1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

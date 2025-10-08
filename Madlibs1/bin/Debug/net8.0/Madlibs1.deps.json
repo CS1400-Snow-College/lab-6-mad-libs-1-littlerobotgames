@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Madlibs1/1.0.0": {
+        "runtime": {
+          "Madlibs1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Madlibs1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
